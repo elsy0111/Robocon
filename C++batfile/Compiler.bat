@@ -1,6 +1,7 @@
 ﻿@REM　初期化など
 echo off
 chcp 65001
+echo　著作 : 片野凱介
 
 @REM　前提の説明 &
 echo　前提)　Z:\MyPrograms\C の中に　NewPprogram.c　があるとします。 &
