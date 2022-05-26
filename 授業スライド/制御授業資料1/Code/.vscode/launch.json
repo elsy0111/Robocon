@@ -13,9 +13,9 @@
             "environment": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
-            "externalConsole": true,
+            "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "c:\\mingw\\bin\\gdb.exe",
+            "miDebuggerPath": "C:/Xilinx/14.7/ISE_DS/ISE/gnu/MinGW/Beta/nt64/bin/gdb.exe",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
