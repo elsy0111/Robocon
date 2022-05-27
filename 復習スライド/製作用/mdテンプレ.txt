@@ -1,0 +1,7 @@
+---
+marp: true
+theme: eyemono
+header: "制御復習N"
+footer: "by よっしー"
+paginate: true
+---
