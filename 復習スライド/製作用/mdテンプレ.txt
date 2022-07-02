@@ -2,6 +2,16 @@
 marp: true
 theme: eyemono
 header: "制御復習N"
-footer: "by よっしー"
+footer: "by 片野"
 paginate: true
 ---
+
+<!--
+表紙のスライドの画像引用
+-->
+<!--
+_backgroundImage: url("")
+-->
+
+---
+
